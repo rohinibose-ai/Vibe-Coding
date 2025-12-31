@@ -1,0 +1,5 @@
+{
+  "name": "Real Estate Admin Dashboard",
+  "description": "A modern, clean, and professional admin dashboard to manage real estate listings with full CRUD functionality using React and Firestore for real-time data synchronization.",
+  "requestFramePermissions": []
+}
