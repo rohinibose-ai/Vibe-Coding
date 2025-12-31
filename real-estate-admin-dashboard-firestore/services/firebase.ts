@@ -10,14 +10,14 @@ import { getStorage, ref, uploadBytes, getDownloadURL } from 'firebase/storage';
 
 // 1. CONFIG: Your actual configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAgQ5MzVf_mJoRj0hkqsCzN_WhqAlmIgE4",
-  authDomain: "pitchhubsmes.firebaseapp.com",
-  databaseURL: "https://pitchhubsmes-default-rtdb.firebaseio.com",
-  projectId: "pitchhubsmes",
-  storageBucket: "pitchhubsmes.firebasestorage.app", // This is your default bucket
-  messagingSenderId: "893379612030",
-  appId: "1:893379612030:web:94d218adfed2c422baf72f",
-  measurementId: "G-F0PCXYMK1Q"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "", // This is your default bucket
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // 2. INITIALIZE: Use compat initializeApp to work around potential environment issues.
